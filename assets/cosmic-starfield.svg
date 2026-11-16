@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="480" viewBox="0 0 1920 480" fill="none">
+  <defs>
+    <linearGradient id="space" x1="0" y1="0" x2="1920" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset=".52" stop-color="#11102B"/>
+      <stop offset="1" stop-color="#080B1D"/>
+    </linearGradient>
+    <radialGradient id="violetNebula" cx="0" cy="0" r="1" gradientTransform="matrix(640 220 -160 466 1250 240)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" stop-opacity=".34"/>
+      <stop offset=".52" stop-color="#6D28D9" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#312E81" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blueNebula" cx="0" cy="0" r="1" gradientTransform="matrix(500 190 -140 368 370 230)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB" stop-opacity=".20"/>
+      <stop offset="1" stop-color="#1E1B4B" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-200%" y="-200%" width="500%" height="500%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1920" height="480" fill="url(#space)"/>
+  <rect width="1920" height="480" fill="url(#violetNebula)"/>
+  <rect width="1920" height="480" fill="url(#blueNebula)"/>
+  <g fill="#E9E7FF">
+    <circle cx="72" cy="54" r="1.5"/><circle cx="144" cy="163" r="1"/><circle cx="218" cy="91" r="1.2"/>
+    <circle cx="286" cy="324" r="1.4"/><circle cx="352" cy="55" r=".9"/><circle cx="418" cy="221" r="1.3"/>
+    <circle cx="486" cy="126" r="1"/><circle cx="548" cy="389" r="1.5"/><circle cx="616" cy="73" r="1"/>
+    <circle cx="681" cy="286" r="1.2"/><circle cx="748" cy="165" r="1.5"/><circle cx="814" cy="43" r="1"/>
+    <circle cx="883" cy="356" r="1.3"/><circle cx="946" cy="112" r="1"/><circle cx="1018" cy="260" r="1.5"/>
+    <circle cx="1082" cy="64" r="1.1"/><circle cx="1150" cy="399" r="1"/><circle cx="1217" cy="180" r="1.3"/>
+    <circle cx="1284" cy="92" r="1"/><circle cx="1351" cy="328" r="1.5"/><circle cx="1415" cy="52" r="1"/>
+    <circle cx="1484" cy="218" r="1.2"/><circle cx="1551" cy="376" r="1"/><circle cx="1618" cy="117" r="1.5"/>
+    <circle cx="1685" cy="287" r="1"/><circle cx="1752" cy="71" r="1.2"/><circle cx="1820" cy="344" r="1.4"/>
+    <circle cx="1882" cy="157" r="1"/><circle cx="126" cy="421" r="1"/><circle cx="746" cy="438" r="1"/>
+    <circle cx="1034" cy="30" r="1.2"/><circle cx="1724" cy="438" r="1"/><circle cx="574" cy="245" r=".8"/>
+    <circle cx="1510" cy="43" r=".9"/><circle cx="294" cy="212" r=".8"/><circle cx="1330" cy="251" r=".9"/>
+  </g>
+  <g fill="#C4B5FD" filter="url(#glow)">
+    <circle cx="250" cy="250" r="2.3"/><circle cx="607" cy="180" r="2"/><circle cx="938" cy="311" r="2.4"/>
+    <circle cx="1192" cy="113" r="2.2"/><circle cx="1460" cy="294" r="2.6"/><circle cx="1777" cy="211" r="2.1"/>
+  </g>
+  <g stroke="#A78BFA" stroke-opacity=".62" stroke-width="1">
+    <path d="M250 241v18M241 250h18"/><path d="M938 301v20M928 311h20"/>
+    <path d="M1460 283v22M1449 294h22"/>
+  </g>
+  <path d="M0 421C260 380 441 450 686 410s406-17 604 4 397 10 630-25v91H0z" fill="#070916" fill-opacity=".42"/>
+</svg>

@@ -1,14 +1,11 @@
- <div align="center">
+<div align="center">
 
-<!-- COSMIC STARFIELD HEADER
-     Upload your animated GIF to assets/cosmic-starfield.gif.
-     The animation will appear at the top of your GitHub profile. -->
-
-<img src="assets/assets/StarfieldSimulation001.gif" width="100%" alt="Animated midnight-blue cosmic starfield with electric violet stars" />
+<!-- Responsive, high-resolution vector starfield header with violet nebula accents. -->
+<img src="assets/cosmic-starfield.svg" width="100%" alt="High-resolution midnight-blue cosmic starfield with violet nebula and stars" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=900&color=7865FF&center=true&vCenter=true&width=850&lines=AI+Forward+Deployed+Engineer;Full+Stack+%7C+Applied+AI+%7C+Cloud+Engineering;Engineering+Solutions+for+Real-World+Problems" alt="Animated professional introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=900&color=7865FF&center=true&vCenter=true&width=850&lines=AI+Forward+Deployed+Engineer;Full+Stack+Engineer;Applied+AI+%26+Distributed+Systems" alt="AI Forward Deployed Engineer, Full Stack Engineer, Applied AI and Distributed Systems" />
 
 # SAIKAT DEY
 
@@ -122,7 +119,7 @@ I enjoy working across the entire engineering lifecycle — from understanding a
 <div align="center">
 
 <a href="https://github.com/Astrix10">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Astrix10&show_icons=true&hide_border=true&bg_color=111827&title_color=7865FF&icon_color=B3A5FF&text_color=E8EAF6&rank_icon=github" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Astrix10&show_icons=true&hide_border=true&bg_color=111827&title_color=7865FF&icon_color=B3A5FF&text_color=E8EAF6&rank_icon=github" alt="GitHub profile statistics" />
 </a>
 <a href="https://github.com/Astrix10">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrix10&layout=compact&hide_border=true&bg_color=111827&title_color=7865FF&text_color=E8EAF6" alt="Most used programming languages" />
