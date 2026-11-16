@@ -4,7 +4,7 @@
      Upload your animated GIF to assets/cosmic-starfield.gif.
      The animation will appear at the top of your GitHub profile. -->
 
-<img src="assets/cosmic-starfield.gif" width="100%" alt="Animated midnight-blue cosmic starfield with electric violet stars" />
+<img src="assets/assets/StarfieldSimulation001.gif" width="100%" alt="Animated midnight-blue cosmic starfield with electric violet stars" />
 
 <br/>
 
