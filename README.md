@@ -22,19 +22,15 @@ Building intelligent, scalable and production-oriented software systems.
 
 ---
 
-## ◈ About Me
+## 👨‍💻 About Me
 
-I'm a software engineer focused on building practical solutions to complex engineering and business problems.
+Software Engineer specializing in the design and development of **scalable, intelligent solutions** to complex engineering and business challenges.
 
-My engineering interests span:
+My technical focus spans **Full Stack Engineering, Applied AI, Distributed Systems and Cloud Technologies**, with a growing emphasis on Forward Deployed Engineering and end-to-end solution delivery.
 
-- **Applied AI:** LLMs, Retrieval-Augmented Generation, embeddings, vector search and AI agents.
-- **Full Stack Engineering:** Java, Spring Boot, React, Next.js and Python.
-- **Distributed Systems:** Microservices, messaging, streaming and scalable architectures.
-- **Cloud Engineering:** AWS, Azure, infrastructure and cloud-native applications.
-- **Forward Deployed Engineering:** Understanding business challenges and translating them into production-oriented technical solutions.
+Beyond engineering, I am drawn to **product innovation, strategic thinking and emerging business opportunities**, particularly where technology can address real-world challenges and create meaningful value.
 
-I enjoy working across the entire engineering lifecycle — from understanding a problem and designing an architecture to building, deploying and improving the solution.
+I believe impactful engineering goes beyond implementation — combining technical depth, architectural thinking and business understanding to deliver solutions with tangible impact.
 
 ## ◈ Technical Arsenal
 
