@@ -11,10 +11,7 @@
 
 
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=1&pause=999999&color=B026FF&center=true&vCenter=true&width=600&height=80&lines=SAIKAT+DEY"
-    alt="SAIKAT DEY"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=1&pause=999999&color=FFD166&center=true&vCenter=true&width=650&height=80&lines=SAIKAT+DEY" alt="SAIKAT DEY" />
 </div>
 
 ### Software Engineer | AI-Driven Systems | Product Engineering
@@ -166,15 +163,23 @@ Great engineering extends beyond implementation — it brings together **archite
 </a>
 
 
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://streak-stats.demolab.com?user=Astrix10&background=090909&hide_border=true&ring=FF4500&fire=FF8C00&currStreakLabel=B58AFF&sideLabels=C4A5FF&currStreakNum=FFF0D6&sideNums=FFB000&dates=9B8AAE"
+        alt="GitHub Contribution Streak"
+      />
+    </td>
+  </tr>
+</table>
+
 <br/><br/>
 
-<!-- Contribution Streak -->
-<img src="https://streak-stats.demolab.com?user=Astrix10&background=090909&hide_border=true&ring=FF4500&fire=FF8C00&currStreakLabel=B58AFF&sideLabels=C4A5FF&currStreakNum=FFF0D6&sideNums=FFB000&dates=9B8AAE" alt="GitHub Contribution Streak" />
 
-<br/><br/>
 
 <!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Astrix10&bg_color=090909&color=E8DFFF&line=FF6A00&point=B58AFF&area=true&area_color=8B5CF6&hide_border=true&custom_title=Dragonfire%20Contribution%20Activity" width="98%" alt="GitHub Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Astrix10&bg_color=090909&color=E8DFFF&line=FF6A00&point=B58AFF&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="GitHub Contribution Activity Graph" />
 
 </div>
 
