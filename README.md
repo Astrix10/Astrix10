@@ -25,13 +25,13 @@ Building intelligent, scalable and production-oriented software systems.
 
 ## 👨‍💻 About Me
 
-Software Engineer specializing in the design and development of **scalable, intelligent solutions** to complex engineering and business challenges.
+Software Engineer specializing in the design and development of **scalable, intelligent software systems** that solve complex engineering and business challenges.
 
-My technical focus spans **Full Stack Engineering, Applied AI, Distributed Systems and Cloud Technologies**, with a growing emphasis on Forward Deployed Engineering and end-to-end solution delivery.
+My technical focus spans **Full Stack Engineering, AI-Driven Systems, Applied AI, Distributed Systems and Cloud Technologies**, with an emphasis on architectural thinking, product engineering and end-to-end solution delivery.
 
-Beyond engineering, I am drawn to **product innovation, strategic thinking and emerging business opportunities**, particularly where technology can address real-world challenges and create meaningful value.
+I am particularly interested in **Forward Deployed Engineering**, where deep technical expertise meets real-world problem solving, product innovation and business impact.
 
-I believe impactful engineering goes beyond implementation — combining technical depth, architectural thinking and business understanding to deliver solutions with tangible impact.
+Great engineering extends beyond implementation — it brings together **architectural vision, analytical problem-solving and business understanding** to create solutions that deliver lasting value and meaningful impact.
 
 ---
 
@@ -86,15 +86,17 @@ I believe impactful engineering goes beyond implementation — combining technic
   <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+
 ### ☁️ 06. Cloud & Infrastructure
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="Amazon EC2" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" alt="Amazon RDS" />
+  <img src="https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Blob Storage" />
 </p>
+
 
 ### 🐳 07. DevOps & CI/CD
 <p>
