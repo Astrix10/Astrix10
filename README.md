@@ -10,9 +10,11 @@
 
 # SAIKAT DEY
 
-### AI Forward Deployed Engineer · Full Stack Engineer · Applied AI
+
+### Software Engineer | AI-Driven Systems | Product Engineering
 
 Building intelligent, scalable and production-oriented software systems.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-536DFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikat-dey-5a5848190)
 [![GitHub](https://img.shields.io/badge/GitHub-Astrix10-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Astrix10)
