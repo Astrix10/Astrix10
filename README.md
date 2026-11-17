@@ -172,72 +172,40 @@ Great engineering extends beyond implementation — it brings together **archite
 
 ---
 
-## ◈ GitHub Trophies
+
+##  🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Astrix10&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub achievements and trophies" />
+<img src="https://trophy.ryglcloud.net/?username=Astrix10&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Achievements and Trophies" />
 
 </div>
 
+
 ---
 
-## ◈ Contribution Activity
+##  🎯 Current Focus
+
+- Designing and engineering **production-grade AI-powered applications** with a focus on scalability, reliability and practical business value.
+- Advancing expertise in **Retrieval-Augmented Generation (RAG), LLM orchestration and agentic AI architectures**.
+- Deepening knowledge of **distributed systems, system design and scalable software architecture**.
+- Building **cloud-native, end-to-end applications** across modern frontend, backend and infrastructure technologies.
+- Developing **Forward Deployed Engineering capabilities** through technical problem-solving, customer-centric solution design and real-world product delivery.
+
+---
+
+##  ⚙️ Engineering Philosophy
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Astrix10/Astrix10/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
+### Think critically. Architect intelligently. Engineer with purpose.
 
-</div>
+> Understand the problem before defining the solution.  
+> Question assumptions. Explore possibilities.  
+> Design with clarity. Build with precision.  
+> Transform complex challenges into meaningful solutions.
 
----
-
-## ◈ Featured Engineering Projects
-
-### Enterprise AI Knowledge Agent
-
-An enterprise-oriented AI knowledge assistant designed to make organizational knowledge searchable and accessible through intelligent retrieval.
-
-**Technology focus:** FastAPI · Next.js · PostgreSQL · pgvector · RAG · LLMs
-
-[Explore my repositories →](https://github.com/Astrix10?tab=repositories)
-
-### More Engineering Projects
-
-Continuously building across:
-
-- Applied AI and intelligent automation
-- Full Stack Engineering
-- Distributed Systems
-- Cloud Infrastructure
-- Scalable Backend Architectures
-
-[Explore all repositories →](https://github.com/Astrix10?tab=repositories)
-
----
-
-## ◈ Current Focus
-
-- Building production-oriented AI applications.
-- Exploring advanced RAG and agentic architectures.
-- Strengthening distributed systems and system design.
-- Engineering cloud-native full-stack applications.
-- Developing the problem-solving mindset of a Forward Deployed Engineer.
-
----
-
-## ◈ Engineering Philosophy
-
-<div align="center">
-
-### Think beyond boundaries. Build beyond expectations.
-
-> Understand the problem deeply.  
-> Challenge assumptions.  
-> Engineer the solution thoughtfully.  
-> Build things that create meaningful impact.
-
-**Always curious. Always building.**
+**Driven by curiosity. Guided by purpose. Defined by impact.**
 
 </div>
 
