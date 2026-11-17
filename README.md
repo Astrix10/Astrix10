@@ -6,10 +6,16 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=900&color=9B5CFF&center=true&vCenter=true&width=850&lines=AI+Forward+Deployed+Engineer;Full+Stack+Engineer;Applied+AI+%26+Distributed+Systems" alt="AI Forward Deployed Engineer, Full Stack Engineer, Applied AI and Distributed Systems" />
 
-# SAIKAT DEY
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=900&color=8DEBFF&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Engineer;Applied+AI+%26+Intelligent+Systems;Distributed+Systems+%26+Cloud+Engineering;End-to-End+Product+Engineering" alt="Software Engineer, AI Engineer, Applied AI and Intelligent Systems, Distributed Systems and Cloud Engineering, End-to-End Product Engineering" />
 
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=1&pause=999999&color=B026FF&center=true&vCenter=true&width=600&height=80&lines=SAIKAT+DEY"
+    alt="SAIKAT DEY"
+  />
+</div>
 
 ### Software Engineer | AI-Driven Systems | Product Engineering
 
@@ -49,14 +55,16 @@ Great engineering extends beyond implementation — it brings together **archite
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+
 ### ⚙️ 02. Backend Engineering
 <p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo= fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white" alt="JPA" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs" />
 </p>
+
 
 ### 🎨 03. Frontend Engineering
 <p>
